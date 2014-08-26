@@ -89,3 +89,9 @@ ul li {
     margin-left: 5em;
     font-family: 'Open Sans', 'sans';
 }
+
+ol li {
+    margin-left: 5em;
+    font-family: 'Open Sans', 'sans';
+    padding-bottom:0.5em;
+}

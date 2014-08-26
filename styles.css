@@ -77,12 +77,19 @@ h4 {
    font-weight: bold;
    margin-top:0.6em;
    color: #363636;
+   padding-bottom: 0.5em;
+   padding-top: 0.6em;
 }
 
 p {
     font-family: 'Open Sans', 'sans';
     padding: 0.5em 0.5em 0.5em 2.5em;
     line-height: 1.3em;
+}
+
+ul {
+    padding-top: 0.6em;
+    padding-bottom:0.6em;
 }
 
 ul li {
